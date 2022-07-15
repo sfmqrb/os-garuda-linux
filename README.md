@@ -34,16 +34,18 @@ Garuda uses Chaotic-AUR as repository featuring one of the bigger precompiled so
 Have their own browser, FireDragon which is forked from LibreWolf. Amongst its features are privacy-friendly defaults, enhanced KDE integration and a small collection of useful addons. The default search engine is SearX instance run on the server.
 
 ## system requirements
-Garuda Linux hardware requirements vary on the Desktop Environment used, but are very similar.
 ![](./pics/systemMonitor.png)
+Garuda Linux hardware requirements vary on the Desktop Environment used, but are very similar.
 
 
 Minimum requirements:
-30 GB storage
-4 GB RAM
+* 30 GB storage
+* 4 GB RAM
+
 Recommended requirements:
-40 GB storage
-8 GB RAM
+* 40 GB storage
+* 8 GB RAM
+
 Garuda Linux also requires a thumbdrive that contains 4 GB space for their standard versions. Gaming Desktop Environments require a thumbdrive with 8 GB storage space available.
 
 
