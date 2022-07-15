@@ -105,6 +105,16 @@ Nobody should be restricted by the software they use. There are four freedoms th
 
 ![](./pics/licence.png)
 
+Developers who write software can release it under the terms of the GNU GPL. When they do, it will be free software and stay free software, no matter who changes or distributes the program. We call this copyleft: the software is copyrighted, but instead of using those rights to restrict users like proprietary software does, we use them to ensure that every user has freedom.
+
+
+last update of the GPL to protect its copyleft from being undermined by legal or technological developments. The most recent version protects users from three recent threats:
+
+* Tivoization: Some companies have created various different kinds of devices that run GPLed software, and then rigged the hardware so that they can change the software that's running, but you cannot. If a device can run arbitrary software, it's a general-purpose computer, and its owner should control what it does. When a device thwarts you from doing that, we call that tivoization.
+
+* Laws prohibiting free software: Legislation like the Digital Millennium Copyright Act and the European Union Copyright Directive make it a crime to write or share software that can break DRM (Digital Restrictions Management; see below). These laws should not interfere with the rights the GPL grants you.
+
+* Discriminatory patent deals: Microsoft has recently started telling people that they will not sue free software users for patent infringement—as long as you get the software from a vendor that's paying Microsoft for the privilege. Ultimately, Microsoft is trying to collect royalties for the use of free software, which interferes with users' freedom. No company should be able to do this.
 
 https://www.gnu.org/licenses/quick-guide-gplv3.html
 
@@ -128,6 +138,14 @@ Pacman keeps the system up-to-date by synchronizing package lists with the maste
 Pacman is written in the C programming language and uses the bsdtar(1) tar format for packaging.
 
 https://www.digitalocean.com/community/tutorials/how-to-use-arch-linux-package-management
+
+#### how does pacman work?
+
+Following link is very helpful to understand how pacman works.
+
+https://wiki.archlinux.org/title/pacman#:~:text=The%20pacman%20package%20manager%20is,or%20the%20user's%20own%20builds.
+
+![pacman](./pics/pacman.png)
 
 ## Installation and Configuration
 ![](./pics/install.png)
@@ -155,7 +173,7 @@ more info:
 https://forum.garudalinux.org/t/garuda-downloader-a-zsync-enabled-delta-downloader-for-garuda-linux-iso-files/6224
 
 ## Applications in Iran and the World
-Garuda Linux is a truly fantastic, and easy-to-use rolling distribution that focuses not only on improved performance but also the look and feels. It's designed for users who prefer a colorful and awe-inspiring user interface and gamers as well given its sheer magnitude of gaming software and tools. 
+Garuda Linux is a truly fantastic, and easy-to-use rolling distribution that focuses not only on improved performance but also the look and feels. It's designed for users who prefer a colorful and inspiring user interface and gamers as well given its sheer magnitude of gaming software and tools. 
  
 
 In Iran, same as the rest of the world, Garuda Linux is a great distribution for users who want to use a desktop environment that is easy to use and has a clean and modern look. It manages interactive tasks more easily than other distributions, and it is easy to use.
